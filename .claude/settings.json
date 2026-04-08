@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "learn-export",
+      "path": ".claude/skills/learn-export.md",
+      "description": "Export learning conversation to markdown and push to GitHub"
+    }
+  ]
+}
